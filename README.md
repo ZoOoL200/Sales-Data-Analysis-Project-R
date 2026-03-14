@@ -9,7 +9,8 @@ This repository showcases a comprehensive end-to-end Exploratory Data Analysis (
 
 ## Tools & Technologies
 * **Language:** R
-* **Libraries:** * `tidyverse` (dplyr, ggplot2, tidyr, lurbidate) for data manipulation and visualization.
+* **Libraries:**
+  * `tidyverse` (dplyr, ggplot2, tidyr, lurbidate) for data manipulation and visualization.
   * `rmarkdown` for professional reporting.
 * **Environment:** RStudio
 
@@ -20,12 +21,12 @@ Based on the `Train_analysis` directory:
 * `data/`: The dataset used for the analysis.
 * `scripts/`: R scripts used for processing and visualization.
 
-## 📈 Visualizations
+## Visualizations
 Below is a sample of the insights generated:
-![Sales by Region](figures/sales_by_region_plot.png)
+![Sales by Region](./figures/sales_by_region.png)
 
-## 📄 How to View the Report
+## How to View the Report
 The full interactive report is available in the `outputs/` folder. You can download the `index.html` file and open it in any web browser to see the detailed findings, code, and methodology.
 
-## 📫 Contact
+## Contact
 **Ahmed Saih** 
