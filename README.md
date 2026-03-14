@@ -2,7 +2,7 @@
 
 This repository showcases a comprehensive end-to-end Exploratory Data Analysis (EDA) pipeline. Focusing on regional sales performance, **Sales-Data-Analysis-Project-R** demonstrates professional-grade data cleaning, sophisticated visualization, and statistical interpretation. The project highlights the ability to handle complex datasets to reveal critical business patterns using the Tidyverse framework.
 
-## 🚀 Key Insights
+## Key Insights
 * **Regional Discrepancy:** While the **East region** exhibits a slightly higher volume of orders, the **West region** leads in terms of total revenue, suggesting a higher average order value in the West.
 * **Product Distribution:** Identified key product categories that contribute most to the profit margin.
 * **Shipping Efficiency:** Analyzed shipping modes to determine the most utilized methods by different customer segments.
