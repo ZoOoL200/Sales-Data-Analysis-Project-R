@@ -17,7 +17,7 @@ This repository showcases a comprehensive end-to-end Exploratory Data Analysis (
 ## Project Structure
 Based on the `Train_analysis` directory:
 * `figures/`: Contains visualizations such as `sales_by_region_plot.png`, `category_distribution_plot.png`, and others.
-* `outputs/`: Includes the final interactive `Report.html` generated via RMarkdown.
+* `outputs/`: Includes the final interactive `index.html` generated via RMarkdown.
 * `data/`: The dataset used for the analysis.
 * `scripts/`: R scripts used for processing and visualization.
 
